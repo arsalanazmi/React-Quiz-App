@@ -1,0 +1,8 @@
+.correct {
+  background-color: rgb(53, 212, 53);
+  color:white;
+}
+.selected:not(correct) {
+  background-color: rgb(206, 58, 58);
+  color:white;
+}
